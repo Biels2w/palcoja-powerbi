@@ -1,0 +1,14 @@
+# Arquivos locais e temporários
+.DS_Store
+Thumbs.db
+Desktop.ini
+~$*
+*.tmp
+
+# Cache e configurações locais do Power BI
+.pbi/
+*.pbix.autorecovery
+
+# Configurações privadas, se forem adicionadas futuramente
+.env
+.env.*
